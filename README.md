@@ -2,7 +2,7 @@
 # Hi, I'm Vishal! 👋
 
 #Demo video(click on youtube logo)
-[![youtubedemo](https://img.shields.io/badge/watch_demo_video-red?logo=youtube&style=social)](https://www.linkedin.com/in/vishal-kamboj-5a187a208/)
+[![youtubedemo](https://img.shields.io/badge/watch_demo_video-red?logo=youtube&style=social)](https://www.youtube.com/watch?v=ZFHUrbcD4Dk)
 
 
 
@@ -65,6 +65,6 @@ _A list of  Git commands_
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-kamboj-5a187a208/)
-[![youtubedemo](https://img.shields.io/badge/watch_demo_video-red?logo=youtube&style=social)](https://www.linkedin.com/in/vishal-kamboj-5a187a208/)
+[![youtubedemo](https://img.shields.io/badge/watch_demo_video-red?logo=youtube&style=social)](https://www.youtube.com/watch?v=ZFHUrbcD4Dk)
 
 
